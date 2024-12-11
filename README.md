@@ -1,3 +1,3 @@
 # Apprentissage Python
 
-Bienvenue dans ce repertoir destiner a l'apprentissage python.
+Bienvenue dans ce répertoire destiné à l'apprentissage Python.
